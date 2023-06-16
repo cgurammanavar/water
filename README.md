@@ -17,7 +17,6 @@ lekage.Enter your wifi cred in the code ssid and pwd it will connect it to inter
 ![image](https://github.com/cgurammanavar/water/assets/98141736/e45485af-2a49-4dbe-9840-95585a70015d)
 ![image](https://github.com/cgurammanavar/water/assets/98141736/a35685c9-c08c-48db-a25e-e6bb37b257cb)
 ![image](https://github.com/cgurammanavar/water/assets/98141736/3de027d0-c5b5-4a6e-8644-6fadfc5c2fc3)
-![image](https://github.com/cgurammanavar/water/assets/98141736/a7a0433b-9c06-43f9-a017-ccdec1b757b0)
 
 
 
